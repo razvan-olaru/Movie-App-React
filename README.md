@@ -1,4 +1,4 @@
-Movie Web App using React and JS
+Movie Web App using React and JS with nice UX and a search functionality
 
 API used: https://developers.themoviedb.org/3
 
