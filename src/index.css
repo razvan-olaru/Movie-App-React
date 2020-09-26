@@ -109,7 +109,6 @@ header {
   font-family: inherit;
   font-size: 1.2rem;
   padding: 0.5rem 1rem;
-  margin-right: 2.5rem;
   height: 2.2rem;
   transition: all 0.4s ease-out;
 }
@@ -166,5 +165,8 @@ header {
   }
   .movie-summary h2 {
     font-size: 1.3rem;
+  }
+  .search {
+    width: 100%;
   }
 }
